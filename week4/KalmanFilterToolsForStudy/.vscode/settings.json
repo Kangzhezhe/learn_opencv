@@ -1,0 +1,7 @@
+{
+    "commentTranslate.source": "Bing",
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "commentTranslate.source": "Bing",
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "core": "cpp",
+        "ostream": "cpp",
+        "eigen": "cpp",
+        "specialfunctions": "cpp"
+    }
+}

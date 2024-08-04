@@ -1,0 +1,3 @@
+/home/kangzhehao/practice/week1/segment/build/CMakeFiles/segmentation.dir
+/home/kangzhehao/practice/week1/segment/build/CMakeFiles/edit_cache.dir
+/home/kangzhehao/practice/week1/segment/build/CMakeFiles/rebuild_cache.dir

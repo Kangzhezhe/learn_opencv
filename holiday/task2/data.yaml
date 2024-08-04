@@ -1,0 +1,8 @@
+# moncake
+train: /home/kangzhehao/Documents/holiday/task2/my_dataset/test  # train images (relative to 'path') 128 images
+val: /home/kangzhehao/Documents/holiday/task2/my_dataset/valid # val images (relative to 'path') 128 images
+test: /home/kangzhehao/Documents/holiday/task2/my_dataset/test # test images (optional)
+
+# Classes
+names:
+  0: 0
